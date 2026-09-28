@@ -1,0 +1,14 @@
+    .mi_estilo{
+        background-color: azure;
+        color: #170824;
+        text-align: center;
+        margin-left: 100px;
+    }
+    h1{
+        color: #A2FA4B
+    }
+    footer{
+        border: 20px solid red;
+        border-radius: 25px;
+
+    }
